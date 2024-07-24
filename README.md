@@ -8,4 +8,4 @@ fetch_weather_data
               |_> fetch_weather_data.py
 
 
-There is 1 LAYER that is required and that layer includes Pythin v3.10, FastAPI and all dependents.
+There is 1 LAYER that is required and that layer includes Pythin v3.10, FastAPI and all dependents. The ZIP file in the repo (package.zip) is that LAYER of function dependents for the environment
